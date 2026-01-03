@@ -13,10 +13,3 @@ Interactive CTF + checklist platform for learning web security safely.
 ```bash
 npm install
 npm run dev
-
-Commit it:
-
-```bash
-git add README.md
-git commit -m "Add README"
-git push
