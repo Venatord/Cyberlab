@@ -1,6 +1,8 @@
+import "./globals.css"
+
 export const metadata = {
-  title: "Bug Bounty Lab",
-  description: "Security learning platform",
+  title: "Cyberlab",
+  description: "Bug bounty lab",
 }
 
 export default function RootLayout({
